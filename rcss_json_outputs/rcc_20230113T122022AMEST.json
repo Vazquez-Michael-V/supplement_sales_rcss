@@ -1,0 +1,829 @@
+{
+    "Pre Workout": {
+        "YEAH BUDDY\u2122 Pre-Workout Powder": {
+            "supp_default_price": "$32.99 USD",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "46",
+            "current_views": "55",
+            "product_rating": "5.0",
+            "product_num_reviews": "58",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 10:39:10 PM"
+        },
+        "Pre-XS Pre-Workout Powder": {
+            "supp_default_price": "$24.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "15",
+            "current_views": "75",
+            "product_rating": "4.9",
+            "product_num_reviews": "83",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 10:40:14 PM"
+        },
+        "Pump-XS": {
+            "supp_default_price": "$24.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "34",
+            "current_views": "71",
+            "product_rating": "4.9",
+            "product_num_reviews": "19",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 10:41:18 PM"
+        },
+        "L-Carnitine XS + Energy Liquid": {
+            "supp_default_price": "PriceNotFound",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "NumSoldNotFound",
+            "current_views": NaN,
+            "product_rating": "5.0",
+            "product_num_reviews": "4",
+            "timeframe": "TimeframeNotFound",
+            "scrape_timestamp": "2023-01-12 10:43:03 PM"
+        },
+        "L-Arginine XS - Capsules": {
+            "supp_default_price": "$19.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "25",
+            "current_views": "28",
+            "product_rating": "5.0",
+            "product_num_reviews": "13",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 10:44:08 PM"
+        }
+    },
+    "Protein & Gainers": {
+        "King Mass XL Gainer": {
+            "supp_default_price": "$59.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "45",
+            "current_views": "75",
+            "product_rating": "4.9",
+            "product_num_reviews": "98",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 10:46:06 PM"
+        },
+        "King Whey Protein Powder": {
+            "supp_default_price": "$69.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "34",
+            "current_views": "71",
+            "product_rating": "4.9",
+            "product_num_reviews": "21",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 10:47:10 PM"
+        },
+        "Pro-Antium Multifaceted Protein": {
+            "supp_default_price": "$64.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "36",
+            "current_views": "69",
+            "product_rating": "4.9",
+            "product_num_reviews": "52",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 10:48:14 PM"
+        },
+        "WHEY XS Protein Powder - 5lbs Bag": {
+            "supp_default_price": "$69.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "25",
+            "current_views": "52",
+            "product_rating": "4.9",
+            "product_num_reviews": "53",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 10:49:17 PM"
+        },
+        "King Whey Premium Protein 5lbs - BLACK Edition": {
+            "supp_default_price": "PriceNotFound",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "NumSoldNotFound",
+            "current_views": NaN,
+            "product_rating": "5.0",
+            "product_num_reviews": "5",
+            "timeframe": "TimeframeNotFound",
+            "scrape_timestamp": "2023-01-12 10:51:01 PM"
+        },
+        "Iso-Tropic Max Protein Isolate 71 Scoops - BLACK Edition": {
+            "supp_default_price": "PriceNotFound",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "NumSoldNotFound",
+            "current_views": NaN,
+            "product_rating": "5.0",
+            "product_num_reviews": "6",
+            "timeframe": "TimeframeNotFound",
+            "scrape_timestamp": "2023-01-12 10:52:46 PM"
+        },
+        "King Whey 5lbs": {
+            "supp_default_price": "$69.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "46",
+            "current_views": "74",
+            "product_rating": "5.0",
+            "product_num_reviews": "151",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 10:53:50 PM"
+        },
+        "WHEY-XS 5lbs Bottle": {
+            "supp_default_price": "PriceNotFound",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "NumSoldNotFound",
+            "current_views": NaN,
+            "product_rating": "",
+            "product_num_reviews": "",
+            "timeframe": "TimeframeNotFound",
+            "scrape_timestamp": "2023-01-12 10:55:34 PM"
+        }
+    },
+    "Stacks & Bundles": {},
+    "Aminos & BCAAs": {
+        "Amino Tone + EAA Powder": {
+            "supp_default_price": "$29.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "41",
+            "current_views": "73",
+            "product_rating": "5.0",
+            "product_num_reviews": "54",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 10:58:23 PM"
+        },
+        "BCAA-XS 2:1:1 Powder": {
+            "supp_default_price": "$24.99 USD",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "10",
+            "current_views": "33",
+            "product_rating": "5.0",
+            "product_num_reviews": "28",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 10:59:27 PM"
+        },
+        "BCAA-XS 2:1:1 Tablets": {
+            "supp_default_price": "$24.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "29",
+            "current_views": "42",
+            "product_rating": "5.0",
+            "product_num_reviews": "1",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:00:30 PM"
+        },
+        "Amino 8000 - Protein Tablets": {
+            "supp_default_price": "$19.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "50",
+            "current_views": "75",
+            "product_rating": "5",
+            "product_num_reviews": "2",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:01:34 PM"
+        },
+        "EAA-XS Tablets - Essential Amino Acids": {
+            "supp_default_price": "$22.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "42",
+            "current_views": "53",
+            "product_rating": "4.9",
+            "product_num_reviews": "10",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:02:37 PM"
+        }
+    },
+    "Fat Burners": {
+        "L-Carnitine XS Liquid 3,000MG": {
+            "supp_default_price": "$24.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "22",
+            "current_views": "75",
+            "product_rating": "5.0",
+            "product_num_reviews": "41",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:04:33 PM"
+        },
+        "L-Carnitine XS Caps 750MG": {
+            "supp_default_price": "PriceNotFound",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "NumSoldNotFound",
+            "current_views": NaN,
+            "product_rating": "4.9",
+            "product_num_reviews": "22",
+            "timeframe": "TimeframeNotFound",
+            "scrape_timestamp": "2023-01-12 11:06:17 PM"
+        },
+        "L-Carnitine XS + Energy Liquid": {
+            "supp_default_price": "PriceNotFound",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "NumSoldNotFound",
+            "current_views": NaN,
+            "product_rating": "5.0",
+            "product_num_reviews": "4",
+            "timeframe": "TimeframeNotFound",
+            "scrape_timestamp": "2023-01-12 11:08:01 PM"
+        }
+    },
+    "Intra/Post Workout": {
+        "Amino 8000 - Protein Tablets": {
+            "supp_default_price": "$19.99 USD",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "50",
+            "current_views": "73",
+            "product_rating": "5",
+            "product_num_reviews": "2",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:09:57 PM"
+        },
+        "BCAA-XS 2:1:1 Tablets": {
+            "supp_default_price": "$24.99 USD",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "29",
+            "current_views": "72",
+            "product_rating": "5.0",
+            "product_num_reviews": "1",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:11:01 PM"
+        },
+        "EAA-XS Tablets - Essential Amino Acids": {
+            "supp_default_price": "$22.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "42",
+            "current_views": "66",
+            "product_rating": "4.9",
+            "product_num_reviews": "10",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:12:04 PM"
+        },
+        "BCAA-XS 2:1:1 Powder": {
+            "supp_default_price": "$24.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "10",
+            "current_views": "44",
+            "product_rating": "5.0",
+            "product_num_reviews": "28",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:13:08 PM"
+        },
+        "Amino Tone + EAA Powder": {
+            "supp_default_price": "$29.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "41",
+            "current_views": "31",
+            "product_rating": "5.0",
+            "product_num_reviews": "54",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:14:12 PM"
+        }
+    },
+    "Daily Essentials": {
+        "Creatine XS Unflavoured Powder": {
+            "supp_default_price": "$34.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "33",
+            "current_views": "45",
+            "product_rating": "4.9",
+            "product_num_reviews": "118",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:16:08 PM"
+        },
+        "L-Carnitine XS Liquid 3,000MG": {
+            "supp_default_price": "$24.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "22",
+            "current_views": NaN,
+            "product_rating": "5.0",
+            "product_num_reviews": "41",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:18:41 PM"
+        },
+        "Vita XS Tablets": {
+            "supp_default_price": "$19.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "31",
+            "current_views": "29",
+            "product_rating": "5.0",
+            "product_num_reviews": "61",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:19:44 PM"
+        },
+        "CLA Conjugated Linoleic Acid Softgels": {
+            "supp_default_price": "$16.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "50",
+            "current_views": "74",
+            "product_rating": "4.9",
+            "product_num_reviews": "31",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:20:48 PM"
+        },
+        "Glutamine XS Unflavored Powder": {
+            "supp_default_price": "$24.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "17",
+            "current_views": "67",
+            "product_rating": "4.9",
+            "product_num_reviews": "61",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:21:51 PM"
+        },
+        "King Test 8X": {
+            "supp_default_price": "$24.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "46",
+            "current_views": "56",
+            "product_rating": "4.9",
+            "product_num_reviews": "63",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:22:54 PM"
+        },
+        "L-Carnitine XS + Energy Liquid": {
+            "supp_default_price": "PriceNotFound",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "NumSoldNotFound",
+            "current_views": NaN,
+            "product_rating": "5.0",
+            "product_num_reviews": "4",
+            "timeframe": "TimeframeNotFound",
+            "scrape_timestamp": "2023-01-12 11:24:39 PM"
+        },
+        "L-Carnitine XS Caps 750MG": {
+            "supp_default_price": "PriceNotFound",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "NumSoldNotFound",
+            "current_views": NaN,
+            "product_rating": "4.9",
+            "product_num_reviews": "22",
+            "timeframe": "TimeframeNotFound",
+            "scrape_timestamp": "2023-01-12 11:26:24 PM"
+        },
+        "Omega-3 XS Fish Oil Softgels": {
+            "supp_default_price": "$22.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "36",
+            "current_views": "74",
+            "product_rating": "5.0",
+            "product_num_reviews": "23",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:27:27 PM"
+        },
+        "Pump-XS": {
+            "supp_default_price": "$24.99 USD",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "34",
+            "current_views": "72",
+            "product_rating": "4.9",
+            "product_num_reviews": "19",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:28:31 PM"
+        },
+        "Tribulus-XS": {
+            "supp_default_price": "$14.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "16",
+            "current_views": "45",
+            "product_rating": "5.0",
+            "product_num_reviews": "5",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:29:35 PM"
+        },
+        "Beta-Alanine 50ct": {
+            "supp_default_price": "PriceNotFound",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "NumSoldNotFound",
+            "current_views": NaN,
+            "product_rating": "4.9",
+            "product_num_reviews": "13",
+            "timeframe": "TimeframeNotFound",
+            "scrape_timestamp": "2023-01-12 11:31:19 PM"
+        },
+        "Test-XS": {
+            "supp_default_price": "$19.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "42",
+            "current_views": "59",
+            "product_rating": "4.8",
+            "product_num_reviews": "9",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:32:22 PM"
+        }
+    },
+    "Apparel": {
+        "Light Weight Baby Tee": {
+            "supp_default_price": "$32.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "25",
+            "current_views": "57",
+            "product_rating": "5.0",
+            "product_num_reviews": "25",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:34:19 PM"
+        },
+        "Yeah Buddy Light Weight Tee": {
+            "supp_default_price": "$32.99 USD",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "15",
+            "current_views": "54",
+            "product_rating": "5.0",
+            "product_num_reviews": "42",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:35:23 PM"
+        },
+        "LWB \"Blurred Lines\" Tee": {
+            "supp_default_price": "$32.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "21",
+            "current_views": "75",
+            "product_rating": "5.0",
+            "product_num_reviews": "5",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:36:26 PM"
+        },
+        "Shut Up And Squat Tee - BLACK": {
+            "supp_default_price": "$32.99 USD",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "18",
+            "current_views": "75",
+            "product_rating": "4.9",
+            "product_num_reviews": "41",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:37:30 PM"
+        },
+        "8x World Champion HOODIE - HEATHER GREY": {
+            "supp_default_price": "$64.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "25",
+            "current_views": "46",
+            "product_rating": "5.0",
+            "product_num_reviews": "8",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:38:34 PM"
+        },
+        "Legacy Windbreaker": {
+            "supp_default_price": "$49.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "17",
+            "current_views": "30",
+            "product_rating": "5.0",
+            "product_num_reviews": "3",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:39:38 PM"
+        },
+        "LWB \"Blurred Lines\" Hoodie": {
+            "supp_default_price": "$64.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "33",
+            "current_views": "50",
+            "product_rating": "5.0",
+            "product_num_reviews": "6",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:40:42 PM"
+        },
+        "Light Weight Baby Hoodie": {
+            "supp_default_price": "$64.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "40",
+            "current_views": "72",
+            "product_rating": "5.0",
+            "product_num_reviews": "13",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:41:46 PM"
+        },
+        "Legacy Crop Windbreaker - BLACK/BLACK": {
+            "supp_default_price": "$49.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "14",
+            "current_views": "65",
+            "product_rating": "5.0",
+            "product_num_reviews": "1",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:42:49 PM"
+        },
+        "Women's LWB \"Blurred Lines\" Festival Tank - BLACK": {
+            "supp_default_price": "$29.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "39",
+            "current_views": "71",
+            "product_rating": "5.0",
+            "product_num_reviews": "2",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:43:53 PM"
+        },
+        "Women's University Crop Top - WHITE/BLACK": {
+            "supp_default_price": "$29.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "26",
+            "current_views": "55",
+            "product_rating": "",
+            "product_num_reviews": "",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:44:57 PM"
+        },
+        "Women's LWB \"Blurred Lines\" Crop Top - BLACK": {
+            "supp_default_price": "$29.99 USD",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "49",
+            "current_views": "60",
+            "product_rating": "5.0",
+            "product_num_reviews": "1",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:46:01 PM"
+        },
+        "Crown Logo Snapback Hat - WHITE/BLACK": {
+            "supp_default_price": "$29.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "10",
+            "current_views": "25",
+            "product_rating": "4.8",
+            "product_num_reviews": "6",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:47:05 PM"
+        },
+        "Legacy Snapback Hat": {
+            "supp_default_price": "$34.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "25",
+            "current_views": "39",
+            "product_rating": "5.0",
+            "product_num_reviews": "1",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:48:09 PM"
+        },
+        "Identity Snapback Hat": {
+            "supp_default_price": "$34.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "23",
+            "current_views": "63",
+            "product_rating": "5.0",
+            "product_num_reviews": "5",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:49:13 PM"
+        },
+        "Yeah Buddy \"Stamped\" Tee - BLACK": {
+            "supp_default_price": "$32.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "21",
+            "current_views": "31",
+            "product_rating": "5.0",
+            "product_num_reviews": "8",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:50:17 PM"
+        },
+        "Yeah Buddy \"Stamped\" Hoodie": {
+            "supp_default_price": "$64.99 USD",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "33",
+            "current_views": "75",
+            "product_rating": "4.9",
+            "product_num_reviews": "7",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:51:21 PM"
+        },
+        "SCHIEK Ronnie Coleman Signature Series Lifting Gloves": {
+            "supp_default_price": "$79.99 USD",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "43",
+            "current_views": "74",
+            "product_rating": "5.0",
+            "product_num_reviews": "6",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:52:26 PM"
+        }
+    },
+    "All Products": {
+        "YEAH BUDDY\u2122 Pre-Workout Powder": {
+            "supp_default_price": "$32.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "46",
+            "current_views": "75",
+            "product_rating": "5.0",
+            "product_num_reviews": "58",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:54:23 PM"
+        },
+        "Creatine XS Unflavoured Powder": {
+            "supp_default_price": "$34.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "33",
+            "current_views": "65",
+            "product_rating": "4.9",
+            "product_num_reviews": "118",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:55:28 PM"
+        },
+        "Glutamine XS Unflavored Powder": {
+            "supp_default_price": "$24.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "17",
+            "current_views": "68",
+            "product_rating": "4.9",
+            "product_num_reviews": "61",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:56:32 PM"
+        },
+        "Amino Tone + EAA Powder": {
+            "supp_default_price": "$29.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "41",
+            "current_views": "65",
+            "product_rating": "5.0",
+            "product_num_reviews": "54",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:57:36 PM"
+        },
+        "Vita XS Tablets": {
+            "supp_default_price": "$19.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "31",
+            "current_views": "47",
+            "product_rating": "5.0",
+            "product_num_reviews": "61",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:58:40 PM"
+        },
+        "Pre-XS Pre-Workout Powder": {
+            "supp_default_price": "$24.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "15",
+            "current_views": "59",
+            "product_rating": "4.9",
+            "product_num_reviews": "83",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-12 11:59:44 PM"
+        },
+        "BCAA-XS 2:1:1 Powder": {
+            "supp_default_price": "$24.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "10",
+            "current_views": "24",
+            "product_rating": "5.0",
+            "product_num_reviews": "28",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-13 12:00:48 AM"
+        },
+        "BCAA-XS 2:1:1 Tablets": {
+            "supp_default_price": "$24.99 USD",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "29",
+            "current_views": "35",
+            "product_rating": "5.0",
+            "product_num_reviews": "1",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-13 12:01:52 AM"
+        },
+        "Iso-Tropic Max Protein Isolate 71 Scoops - BLACK Edition": {
+            "supp_default_price": "PriceNotFound",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "NumSoldNotFound",
+            "current_views": NaN,
+            "product_rating": "5.0",
+            "product_num_reviews": "6",
+            "timeframe": "TimeframeNotFound",
+            "scrape_timestamp": "2023-01-13 12:03:38 AM"
+        },
+        "King Whey Premium Protein 5lbs - BLACK Edition": {
+            "supp_default_price": "PriceNotFound",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "NumSoldNotFound",
+            "current_views": NaN,
+            "product_rating": "5.0",
+            "product_num_reviews": "5",
+            "timeframe": "TimeframeNotFound",
+            "scrape_timestamp": "2023-01-13 12:05:23 AM"
+        },
+        "Pro-Antium Multifaceted Protein": {
+            "supp_default_price": "$64.99 USD",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "36",
+            "current_views": "57",
+            "product_rating": "4.9",
+            "product_num_reviews": "52",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-13 12:06:27 AM"
+        },
+        "King Whey Protein Powder": {
+            "supp_default_price": "$69.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "34",
+            "current_views": "69",
+            "product_rating": "4.9",
+            "product_num_reviews": "21",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-13 12:07:32 AM"
+        },
+        "King Mass XL Gainer": {
+            "supp_default_price": "$59.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "45",
+            "current_views": "67",
+            "product_rating": "4.9",
+            "product_num_reviews": "98",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-13 12:08:37 AM"
+        },
+        "Amino 8000 - Protein Tablets": {
+            "supp_default_price": "$19.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "50",
+            "current_views": "67",
+            "product_rating": "5",
+            "product_num_reviews": "2",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-13 12:09:41 AM"
+        },
+        "King Test 8X": {
+            "supp_default_price": "$24.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "46",
+            "current_views": "50",
+            "product_rating": "4.9",
+            "product_num_reviews": "63",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-13 12:10:46 AM"
+        },
+        "L-Carnitine XS Liquid 3,000MG": {
+            "supp_default_price": "$24.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "22",
+            "current_views": "68",
+            "product_rating": "5.0",
+            "product_num_reviews": "41",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-13 12:11:50 AM"
+        },
+        "CLA Conjugated Linoleic Acid Softgels": {
+            "supp_default_price": "$16.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "50",
+            "current_views": "49",
+            "product_rating": "4.9",
+            "product_num_reviews": "31",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-13 12:12:55 AM"
+        },
+        "Light Weight Baby Hoodie": {
+            "supp_default_price": "$64.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "40",
+            "current_views": "74",
+            "product_rating": "5.0",
+            "product_num_reviews": "13",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-13 12:13:59 AM"
+        },
+        "LWB \"Blurred Lines\" Hoodie": {
+            "supp_default_price": "$64.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "33",
+            "current_views": "48",
+            "product_rating": "5.0",
+            "product_num_reviews": "6",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-13 12:15:04 AM"
+        },
+        "Yeah Buddy Light Weight Tee": {
+            "supp_default_price": "$32.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "15",
+            "current_views": "68",
+            "product_rating": "5.0",
+            "product_num_reviews": "42",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-13 12:16:08 AM"
+        },
+        "Light Weight Baby Tee": {
+            "supp_default_price": "$32.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "25",
+            "current_views": "69",
+            "product_rating": "5.0",
+            "product_num_reviews": "25",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-13 12:17:12 AM"
+        },
+        "King Whey 5lbs": {
+            "supp_default_price": "$69.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "46",
+            "current_views": "48",
+            "product_rating": "5.0",
+            "product_num_reviews": "151",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-13 12:18:17 AM"
+        },
+        "Omega-3 XS Fish Oil Softgels": {
+            "supp_default_price": "$22.99",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "36",
+            "current_views": "74",
+            "product_rating": "5.0",
+            "product_num_reviews": "23",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-13 12:19:21 AM"
+        },
+        "WHEY XS Protein Powder - 5lbs Bag": {
+            "supp_default_price": "$69.99 USD",
+            "supp_max_price": "PriceNotFound",
+            "supp_sold": "25",
+            "current_views": "51",
+            "product_rating": "4.9",
+            "product_num_reviews": "53",
+            "timeframe": "24",
+            "scrape_timestamp": "2023-01-13 12:20:22 AM"
+        }
+    }
+}
